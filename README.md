@@ -2,4 +2,4 @@
 - 👀 I’m interested in exploring the fascinating world of software development and technology. I am always on the lookout for new and exciting projects that challenge and inspire me.
 - 🌱 I’m currently learning various programming languages and tools to enhance my skills and broaden my knowledge. I believe in continuous learning and strive to stay up-to-date with the latest trends in the tech industry.
 - 💞️ I’m looking to collaborate on open-source projects that make a positive impact on the community. If you have any exciting opportunities or projects, feel free to reach out!
-- 📫 How to reach me? You can contact me through my email panjiyardipesh123@gmail.com or connect with me on LinkedIn www.linkedin.com/in/dipesh-panjiyar-460507210.
+- 📫 How to reach me? You can contact me through my email panjiyardipesh123@gmail.com or connect with me on LinkedIn www.linkedin.com/in/dipesh-panjiyar.
