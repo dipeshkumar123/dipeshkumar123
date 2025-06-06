@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Dipesh's%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Dipesh's%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Dipesh+Kumar!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Class+of+2026+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Dipesh+Kumar!;Full-Stack+Developer+%7C+AI+Enthusiast;B.Tech+Student+%7C+Class+of+2026;Building+the+Future+with+Code!" />
 </div>
 
 <div align="center">
@@ -37,21 +37,82 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,typescript,sql&theme=dark" />
 
 ### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,sass,tailwind&theme=dark" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet,mongodb,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet,mongodb,postgresql,mysql&theme=dark" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,aws&theme=dark" />
 
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20Dipesh's%20GitHub%20Stats"/>
+  
+  <!-- GitHub Streak -->
+  <img width="49%" src="https://streak-stats.demolab.com/?user=dipeshkumar123&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC"/>
+  
+</div>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=🔥%20Most%20Used%20Languages"/>
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar123&custom_title=Dipesh%20Kumar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="900">
+</div>
+
+## 💻 LeetCode Journey
+
+<div align="center">
+  
+  <!-- LeetCode Stats Card with correct username -->
+  <img src="https://leetcard.jacoblin.cool/panjiyardipesh123?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  
+</div>
+
+### 📊 LeetCode Analytics
+<div align="center">
+  
+  <!-- Working LeetCode API badges -->
+  <img src="https://img.shields.io/badge/LeetCode-panjiyardipesh123-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&link=https://leetcode.com/u/panjiyardipesh123/"/>
+  
+  <img src="https://img.shields.io/badge/Solved-400+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Language-C++%20|%20Python%20|%20Java-blue?style=for-the-badge"/>
+  
+</div>
+
+<!-- Alternative LeetCode Stats -->
+<div align="center">
+  <img src="https://leetcode-stats.tashif.codes/card?username=panjiyardipesh123&theme=dark" alt="LeetCode Stats Alternative" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d84-d75e8e6826bc.gif" width="900">
 </div>
 
 ## 🏗️ Featured Projects
@@ -140,33 +201,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20Dipesh's%20GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshkumar123&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
-  
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=🔥%20Dipesh's%20Most%20Used%20Languages" />
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar123&custom_title=Dipesh%20Kumar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Dipesh's GitHub Activity Graph" />
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="900">
-</div>
-
 ## 🎯 Skills & Expertise
 
 <div align="center">
@@ -174,16 +208,16 @@
 | Category | Technologies |
 |----------|-------------|
 | **🎨 Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **🔧 Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **🤖 AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FF6B6B?style=flat-square&logoColor=white) ![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white) |
-| **💻 Programming** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **🔧 Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **🤖 AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FF6B6B?style=flat-square&logo=ai&logoColor=white) ![GPT](https://img.shields.io/badge/GPT-74AA9C?style=flat-square&logo=openai&logoColor=white) |
+| **💻 Programming** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d84-d75e8e6826bc.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-0e6e0019-e8a8-4e4b-b0b4-3e2e11b7bb73.gif" width="900">
 </div>
 
 ## 🏆 Achievements & Milestones
@@ -203,20 +237,11 @@
 
 </div>
 
-### 💻 LeetCode Journey
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/dipeshkumar123?theme=dark&font=Nunito&ext=contest" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-0e6e0019-e8a8-4e4b-b0b4-3e2e11b7bb73.gif" width="900">
-</div>
-
-## 🎯 Current Journey & Goals
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="280">
 </div>
+
+## 🎯 Current Journey & Goals
 
 ### 🔍 **Currently Focusing On (June 2025):**
 - 💼 **Job Preparation** for Software Engineering roles (2026 graduate!)
@@ -266,39 +291,81 @@ DevOps & Cloud         ██████████████░░░░░
 Public Speaking        ███████░░░░░░░░░░░░░░░░░░░░░░░░   25%
 ```
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284103-a42e923b-ca55-483a-adb6-b52836bb8292.gif" width="900"> </div>
-🤝 Let's Connect & Collaborate!
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br><br>
-LinkedIn GitHub Portfolio Email LeetCode
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284103-a42e923b-ca55-483a-adb6-b52836bb8292.gif" width="900">
+</div>
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br><br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipeshkumar123)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipeshkumar123)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dipeshkumar123.github.io)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panjiyardipesh123@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/panjiyardipesh123/)
 
 </div>
-💬 Let's Talk About:
-🚀 Innovative Project Ideas - Always excited about new tech challenges
-💼 Collaboration Opportunities - Open to working on impactful projects
-🎯 Career Guidance & Mentorship - Learning from experienced developers
-🤖 AI/ML Applications - Exploring real-world AI implementations
-💻 Full-Stack Development - Building end-to-end solutions
-🔧 System Architecture - Designing scalable systems
-🎓 Student Life - Sharing experiences and knowledge
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284077-2d3991bb-52c8-4c33-8280-178a7cb16091.gif" width="900"> </div>
-📊 Profile Analytics & Metrics
+
+### 💬 Let's Talk About:
+- 🚀 **Innovative Project Ideas** - Always excited about new tech challenges
+- 💼 **Collaboration Opportunities** - Open to working on impactful projects
+- 🎯 **Career Guidance & Mentorship** - Learning from experienced developers
+- 🤖 **AI/ML Applications** - Exploring real-world AI implementations
+- 💻 **Full-Stack Development** - Building end-to-end solutions
+- 🔧 **System Architecture** - Designing scalable systems
+- 🎓 **Student Life** - Sharing experiences and knowledge
+
 <div align="center">
-Profile Views GitHub followers GitHub stars
+  <img src="https://user-images.githubusercontent.com/74038190/212284077-2d3991bb-52c8-4c33-8280-178a7cb16091.gif" width="900">
+</div>
+
+## 📊 Profile Analytics & Metrics
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=dipeshkumar123&style=for-the-badge&color=brightgreen)
+  ![GitHub followers](https://img.shields.io/github/followers/dipeshkumar123?style=for-the-badge&color=yellow)
+  ![GitHub stars](https://img.shields.io/github/stars/dipeshkumar123?style=for-the-badge&color=orange)
 
 </div>
-🐍 Dipesh's Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/dipeshkumar123/dipeshkumar123/output/github-contribution-grid-snake.svg" alt="Dipesh's contribution snake animation" /> </div>
-📅 Profile Summary
+
+## 🐍 Dipesh's Contribution Snake
+
 <div align="center">
-📊 Metric	🔢 Count
-👀 Profile Views	Views
-🗓️ Days Coding	Days
-💻 Lines of Code	LOC
-☕ Coffee Consumed	Coffee
-🏆 Projects Completed	Projects
+  
+  <!-- GitHub Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipeshkumar123/dipeshkumar123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipeshkumar123/dipeshkumar123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dipeshkumar123/dipeshkumar123/output/github-contribution-grid-snake.svg">
+  </picture>
+  
 </div>
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-✨ "Code is poetry written in logic, and every bug is just a plot twist!" ✨
-🚀 Dipesh Kumar - Turning Ideas into Code, One Commit at a Time
-📅 Last Updated: June 2025 | 🎓 Class of 2026 | 🌟 Always Learning
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/> </div>
+
+## 📅 Profile Summary
+
+<div align="center">
+
+| 📊 Metric | 🔢 Count |
+|:---:|:---:|
+| 👀 **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=dipeshkumar123&style=flat&color=blue) |
+| 🗓️ **Days Coding** | 365+ Days |
+| 💻 **Lines of Code** | 50,000+ LOC |
+| ☕ **Coffee Consumed** | ∞ Cups |
+| 🏆 **Projects Completed** | 15+ Projects |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  
+  ### ✨ "Code is poetry written in logic, and every bug is just a plot twist!" ✨
+  
+  🚀 **Dipesh Kumar** - Turning Ideas into Code, One Commit at a Time
+  
+  📅 **Last Updated:** June 6, 2025 | 🎓 **Class of 2026** | 🌟 **Always Learning**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
