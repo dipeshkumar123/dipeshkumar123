@@ -6,7 +6,7 @@ I recently graduated with a B.Tech in Computer Science from Jain University and 
 
 I enjoy building full-stack applications, designing automation frameworks, and solving challenging algorithmic problems.
 
-My primary tech stack includes Java, Spring Boot, JavaScript, React, Node.js, MongoDB, RestAssured, Cucumber, Jenkins, Docker, and Git.
+My primary tech stack includes Java, Spring Boot, JavaScript, React, Node.js, MySQL, MongoDB, RestAssured, Cucumber, Jenkins, Docker, and Git.
 
 ---
 
